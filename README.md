@@ -12,7 +12,7 @@ To use install the following:
 ```python
   pip install beautifulsoup4
 ```
-
+Progress Bar:
 ```python
   pip install tqdm
 ```
