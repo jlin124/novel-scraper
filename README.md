@@ -16,3 +16,6 @@ Progress Bar:
 ```python
   pip install tqdm
 ```
+
+Issues:
+Beautiful couldn't pull a deeply nested list of tags containing the chapter links of the novel. Manually added the HTML of the nested tags that it failed to retrieve.
